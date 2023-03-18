@@ -1,2 +1,1 @@
-aksalsk 
-lllasd
+import time
